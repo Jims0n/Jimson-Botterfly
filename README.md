@@ -3,12 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/@_jimson__" target="blank"><img src="https://img.shields.io/twitter/follow/@_jimson__?logo=twitter&style=for-the-badge" alt="@_jimson__" /></a> </p>
 
-- 🌱 I’m currently learning **Frameworks**
-
-- 👨‍💻 All of my projects are available at [...](...)
-
-- 💬 Ask me about **MERN**
-
 - 📫 How to reach me **opeyemiabdulateef41@gmail.com**
 
 
