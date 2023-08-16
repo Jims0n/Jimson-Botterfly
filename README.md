@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jimoh Abdulateef</h1>
-<h3 align="center">A passionate developer </h3>
+<h1 align="center">Hi 👋</h1>
+<h3 align="center">I'm Jimson, a software developer</h3>
 
 <p align="left"> <a href="https://twitter.com/@_jimson__" target="blank"><img src="https://img.shields.io/twitter/follow/@_jimson__?logo=twitter&style=for-the-badge" alt="@_jimson__" /></a> </p>
 
